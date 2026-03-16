@@ -4,7 +4,7 @@
 
 ```python
 
-a = 'tekst /n druga linia'
+a = 'tekst \n druga linia'
 
 b = 'text' + 'tekst'
 
