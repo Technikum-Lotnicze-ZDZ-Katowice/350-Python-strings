@@ -39,8 +39,6 @@ fragment = word[1:3] # word[:4]
 
 ```python
 
-word.strip()
-
 sentence.split(' ')
 
 ```
@@ -49,6 +47,11 @@ sentence.split(' ')
 ```python
 a.upper()
 a.lower()
+
+
+word.strip()
+
+sentence.replace('A','B')
 ```
 
 ### Zadania
