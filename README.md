@@ -37,6 +37,12 @@ fragment = word[1:3] # word[:4]
 ```
 
 
+```python
+
+lista = sentence.split(' ')
+
+```
+
 
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
