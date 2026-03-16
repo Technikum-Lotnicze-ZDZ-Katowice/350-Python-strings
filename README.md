@@ -44,6 +44,11 @@ lista = sentence.split(' ')
 ```
 3. Transformacje
 
+```python
+a.upper()
+a.lower()
+```
+
 ### Zadania
 #### ZAD35001.
 
