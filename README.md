@@ -42,6 +42,7 @@ fragment = word[1:3] # word[:4]
 lista = sentence.split(' ')
 
 ```
+3. Transformacje
 
 ### Zadania
 #### ZAD35001.
