@@ -4,13 +4,37 @@
 
 ```python
 
-a = "tekst /n druga linia"
+a = 'tekst /n druga linia'
 
-b = """
+b = 'text' + 'tekst'
+
+c = 'text ' * 3
+
+d = """
 tekst
 wieloliniowy
 """
 
+```
+
+2. Fragmenty
+
+```python
+...
+
+letter = word[0]  # word[-1]
+
+fragment = word[1:3] # word[:4]
+
+
+'''
+
+```cmd
+ +---+---+---+---+---+---+
+ | P | y | t | h | o | n |
+ +---+---+---+---+---+---+
+ 0   1   2   3   4   5   6
+-6  -5  -4  -3  -2  -1
 ```
 
 
