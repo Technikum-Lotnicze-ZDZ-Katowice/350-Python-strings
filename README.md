@@ -43,7 +43,17 @@ lista = sentence.split(' ')
 
 ```
 
+### Zadania
+#### ZAD35001.
+
+Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum.com) i wykonaj następujące polecenia:
+- wypisz na ekranie fragment od 10 do 30 znaku
+- zamień i wypisz pierwsze 10 znaków wersalikami
+- zamień wsztstkie litery na kapitaliki i wypisz piersze 100 znaków
 
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
 - https://www.w3schools.com/python/python_strings.asp
+
+### Linki
+- https://www.lipsum.com/
