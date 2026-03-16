@@ -39,7 +39,9 @@ fragment = word[1:3] # word[:4]
 
 ```python
 
-lista = sentence.split(' ')
+word.strip()
+
+sentence.split(' ')
 
 ```
 3. Transformacje
