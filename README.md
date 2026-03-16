@@ -29,14 +29,12 @@ wieloliniowy
 
 
 ```python
-...
 
 letter = word[0]  # word[-1]
 
 fragment = word[1:3] # word[:4]
 
-
-'''
+```
 
 
 
