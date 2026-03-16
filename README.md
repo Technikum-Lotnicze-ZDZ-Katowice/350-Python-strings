@@ -45,13 +45,18 @@ sentence.split(' ')
 3. Transformacje
 
 ```python
-a.upper()
-a.lower()
-
+a.upper()  # title()
+a.lower()  # swapcase()
 
 word.strip()
 
 sentence.replace('A','B')
+
+txt.count("apple")
+
+txt.find("welcome")
+
+",".join(myTuple)
 ```
 
 ### Zadania
@@ -65,6 +70,7 @@ Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
 - https://www.w3schools.com/python/python_strings.asp
+- https://www.w3schools.com/python/python_strings_methods.asp
 
 ### Linki
 - https://www.lipsum.com/
