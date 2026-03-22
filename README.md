@@ -88,6 +88,22 @@ Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum
 - zamień i wypisz pierwsze 10 znaków wersalikami
 - zamień wszystkie litery na kapitaliki i wypisz pierwsze 100 znaków zmienionego tekstu
 
+#### ZAD35002.
+
+- Sprawdź i wypisz ile znaków zawiera tekst.
+- Sprawdź i wypisz ile słów zawiera tekst.
+- Wyswietl komunikat "Przekroczono limit znaków/słów" jeśli zostanie przekroczony limit 20 znaków/słów.
+
+#### ZAD35003.
+
+Wypisz fragment dowolnego tekstu od pierwszego wystąpienia słowa "yes" do końca tekstu. Poniżej przykład wyniku:
+
+```python
+tekst = "No we can't or yes we can"
+
+wynik = "yes we can"
+```
+
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
 - https://www.w3schools.com/python/python_strings.asp
