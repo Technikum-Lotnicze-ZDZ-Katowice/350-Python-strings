@@ -51,6 +51,7 @@ fragment = word[1:3] # word[:4]
 ```python
 
 sentence.split(' ')
+sentence.splitlines()
 
 ```
 3. Transformacje
@@ -58,6 +59,10 @@ sentence.split(' ')
 ```python
 a.upper()  # title()
 a.lower()  # swapcase()
+
+---
+
+txt.center(20)
 
 ---
 
@@ -99,6 +104,14 @@ Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum
 Wypisz ile razy słowo "yes" pojawia się w podanym tekście. Uwzględnij dowolną wielkość znaków w tekście.
 
 #### ZAD35004.
+
+Wypisz podany tekst w taki sposób, aby po kazdym wierszu z tekstu wstawić pusty wiersz
+
+Na końcu i na początku dodaj linię zawierającą znaki "---***---"
+
+Wszystkie wiersze (linie) wyśrodkuj dla lini o długości 40 znaków
+
+#### ZAD35005.
 
 Wypisz fragment dowolnego tekstu od pierwszego wystąpienia słowa "yes" do końca tekstu. Poniżej przykład wyniku:
 
