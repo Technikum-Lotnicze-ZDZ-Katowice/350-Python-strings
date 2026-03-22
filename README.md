@@ -53,13 +53,23 @@ sentence.split(' ')
 a.upper()  # title()
 a.lower()  # swapcase()
 
+---
+
 word.strip()
+
+---
 
 sentence.replace('A','B')
 
+---
+
 txt.count("apple")
 
+---
+
 txt.find("welcome")
+
+---
 
 ",".join(myTuple)
 ```
