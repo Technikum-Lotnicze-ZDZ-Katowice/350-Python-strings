@@ -96,6 +96,10 @@ Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum
 
 #### ZAD35003.
 
+Wypisz ile razy słowo "yes" pojawia się w podanym tekście. Uwzględnij dowolną wielkość znaków w tekście.
+
+#### ZAD35004.
+
 Wypisz fragment dowolnego tekstu od pierwszego wystąpienia słowa "yes" do końca tekstu. Poniżej przykład wyniku:
 
 ```python
