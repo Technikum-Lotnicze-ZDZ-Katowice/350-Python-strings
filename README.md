@@ -32,7 +32,10 @@ for x in "Python":
   print(x)
 
 ---
+
 word.find('...')
+
+---
 
 len(word)
 
