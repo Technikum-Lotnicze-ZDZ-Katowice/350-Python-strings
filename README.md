@@ -111,6 +111,8 @@ Na końcu i na początku dodaj linię zawierającą znaki "---***---"
 
 Wszystkie wiersze (linie) wyśrodkuj dla lini o długości 40 znaków
 
+- dodatkowo: podziel tekst na zwrrotki zawierające 4 lini z odstępami 1 linii (oddzielone znakami "---<|>---")
+
 #### ZAD35005.
 
 Wypisz fragment dowolnego tekstu od pierwszego wystąpienia słowa "yes" do końca tekstu. Poniżej przykład wyniku:
