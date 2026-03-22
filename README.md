@@ -80,7 +80,7 @@ txt.find("welcome")
 Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum.com) i wykonaj następujące polecenia:
 - wypisz na ekranie fragment od 10 do 30 znaku
 - zamień i wypisz pierwsze 10 znaków wersalikami
-- zamień wszystkie litery na kapitaliki i wypisz pierwsze 100 znaków
+- zamień wszystkie litery na kapitaliki i wypisz pierwsze 100 znaków zmienionego tekstu
 
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
