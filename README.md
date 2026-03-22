@@ -111,7 +111,8 @@ Na końcu i na początku dodaj linię zawierającą znaki "---***---"
 
 Wszystkie wiersze (linie) wyśrodkuj dla lini o długości 40 znaków
 
-- dodatkowo: podziel tekst na zwrotki zawierające 4 lini z odstępami 1 linii (oddzielone znakami "---<|>---")
+- dodatkowo: podziel tekst na zwrotki (części) zawierające 4 linie (wiersze) z odstępami 1 linii.
+  Zwrotki oddziel znakami "---<|>---")
 
 #### ZAD35005.
 
