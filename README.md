@@ -100,6 +100,7 @@ Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum
 
 - Sprawdź i wypisz ile znaków zawiera tekst.
 - Sprawdź i wypisz ile słów zawiera tekst.
+- Sprawdź ile wierszy zawiera tekst
 - Wyswietl komunikat "Przekroczono limit znaków/słów" jeśli zostanie przekroczony limit 20 znaków/słów.
 
 #### ZAD35003.
