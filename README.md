@@ -91,7 +91,7 @@ txt.find("welcome")
 ### Zadania
 
 #### ZAD35001.
-Zapytaj użytkownika o Imię, następnie zapytaj o Nazwisko, a następnie wypisz na ekranie zdanie "Witaj <imię> <nazwisko>!" podstawiając pozyskane dane użytkownika.
+Zapytaj użytkownika o Imię, następnie zapytaj o Nazwisko, a następnie wypisz na ekranie zdanie "Witaj \<imię> \<nazwisko>!" podstawiając pozyskane dane użytkownika.
 
 #### ZAD35002.
 Zapytaj użytkownika o jego wiek a nastepnie wypisz komunikat w zależności od podanego wieku:
