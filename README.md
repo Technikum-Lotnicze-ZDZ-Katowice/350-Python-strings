@@ -89,25 +89,35 @@ txt.find("welcome")
 ```
 
 ### Zadania
+
 #### ZAD35001.
+Zapytaj użytkownika o Imię, następnie zapytaj o Nazwisko, a następnie wypisz na ekranie zdanie "Witaj <imię> <nazwisko>!" podstawiając pozyskane dane użytkownika.
+
+#### ZAD35002.
+Zapytaj użytkownika o jego wiek a nastepnie wypisz komunikat w zależności od podanego wieku:
+
+- jesteś niepełnoletni
+- jesteś pełnoletni
+
+#### ZAD35003.
 
 Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum.com) i wykonaj następujące polecenia:
 - wypisz na ekranie fragment od 10 do 30 znaku
 - zamień i wypisz pierwsze 10 znaków wersalikami
 - zamień wszystkie litery na kapitaliki i wypisz ostatnie 100 znaków zmienionego tekstu
 
-#### ZAD35002.
+#### ZAD35004.
 
 - Sprawdź i wypisz ile znaków zawiera tekst.
 - Sprawdź i wypisz ile słów zawiera tekst.
 - Sprawdź ile wierszy zawiera tekst
 - Wyswietl komunikat "Przekroczono limit znaków/słów" jeśli zostanie przekroczony limit 20 znaków/słów.
 
-#### ZAD35003.
+#### ZAD35005.
 
 Wypisz ile razy słowo "yes" pojawia się w podanym tekście. Uwzględnij dowolną wielkość znaków w tekście.
 
-#### ZAD35004.
+#### ZAD35006.
 
 Wypisz podany tekst w taki sposób, aby po kazdym wierszu z tekstu wstawić pusty wiersz
 
@@ -118,7 +128,7 @@ Wszystkie wiersze (linie) wyśrodkuj dla lini o długości 40 znaków
 - dodatkowo: podziel tekst na zwrotki (części) zawierające 4 linie (wiersze) z odstępami 1 linii.
 - zwrotki oddziel znakami "<-|->"
 
-#### ZAD35005.
+#### ZAD35007.
 
 Wypisz fragment dowolnego tekstu od pierwszego wystąpienia słowa "yes" do końca tekstu. Poniżej przykład wyniku:
 
