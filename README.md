@@ -103,8 +103,8 @@ Zapytaj użytkownika o jego wiek a nastepnie wypisz komunikat w zależności od 
 
 Przypisz do zmiennej akapit skopiowany z dowolnej strony internetowej (np lipsum.com) i wykonaj następujące polecenia:
 - wypisz na ekranie fragment od 10 do 30 znaku
-- zamień i wypisz pierwsze 10 znaków wersalikami
-- zamień wszystkie litery na kapitaliki i wypisz ostatnie 100 znaków zmienionego tekstu
+- zamień i wypisz pierwsze 10 znaków (duzymi literami)
+- zamień wszystkie litery na małe litery i wypisz ostatnie 100 znaków zmienionego tekstu
 
 #### ZAD35004.
 
