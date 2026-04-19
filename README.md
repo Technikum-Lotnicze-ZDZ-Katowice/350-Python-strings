@@ -137,6 +137,8 @@ tekst = "No we can't or yes we can"
 
 wynik = "yes we can"
 ```
+#### ZAD35008.
+Oblicz maxymalną wartość, minimalną wartość, średnią arytmetyczną, sumę zbioru podanych przez uzytkownika liczb 
 
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
