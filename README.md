@@ -143,8 +143,13 @@ Oblicz maksymalną wartość, minimalną wartość, średnią arytmetyczną oraz
 
 #### ZAD35009.
 Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami
-(użyj słowników)
-
+(użyj słowników). Wypisz zaswartość bazy w następującej formie:
+```
+W naszym salonie samochodowym mamy następujące auta:
+- Opel Corsa (rocznik 2006) - kolor: czerwony;
+- Ford Capri (rocznik 2010) - kolor: zielony;
+- Subaru Impreza (rocznik 2017) - kolor: czarny;
+```
 ### Info
 - https://docs.python.org/pl/3.14/tutorial/introduction.html#text
 - https://www.w3schools.com/python/python_strings.asp
