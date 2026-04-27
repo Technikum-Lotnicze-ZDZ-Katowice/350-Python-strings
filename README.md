@@ -141,7 +141,7 @@ wynik = "yes we can"
 Oblicz maksymalną wartość, minimalną wartość, średnią arytmetyczną oraz sumę zbioru podanych przez uzytkownika liczb oraz sprwdź które z nich są parzyste
 
 
-#### ZAD35008.
+#### ZAD35009.
 Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami
 (użyj słowników)
 
